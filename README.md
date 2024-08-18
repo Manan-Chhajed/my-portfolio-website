@@ -3,7 +3,7 @@
 ### Setup
 
 ```bash
-pnpm create next-app --example https://github.com/vercel/examples/tree/main/solutions/blog blog
+pnpm create next-app --example https://github.com/Manan-Chhajed/my-portfolio-website.git xyz-name
 ```
 
 Then, run Next.js in development mode:
